@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!-- 
 **WyattHo/WyattHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
  -->
  
- 📝 Latest Medium Posts
+ <h3 >📝 Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [numpy array邏輯運算應用](https://wyatthoho.medium.com/numpy-array%E9%82%8F%E8%BC%AF%E9%81%8B%E7%AE%97%E6%87%89%E7%94%A8-a7ffb48da6c5?source=rss-1aa7afdfe5e------2)
@@ -26,3 +26,18 @@ Here are some ideas to get you started:
 - [LaTeX初次上手&lpar;一&rpar;](https://wyatthoho.medium.com/latex%E5%88%9D%E6%AC%A1%E4%B8%8A%E6%89%8B-%E4%B8%80-da0ab629a92d?source=rss-1aa7afdfe5e------2)
 - [numpy argsort issue](https://wyatthoho.medium.com/numpy-argsort-issue-dcd2152a4fa4?source=rss-1aa7afdfe5e------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+
+  <h3 >🔧 Languages and Tools:</h3>
+    <p > 
+    <a href="https://git-scm.com/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
+  </p>
+
+
+
+
+
