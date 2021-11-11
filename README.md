@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
+ 
+ 📝 Latest Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [numpy array邏輯運算應用](https://wyatthoho.medium.com/numpy-array%E9%82%8F%E8%BC%AF%E9%81%8B%E7%AE%97%E6%87%89%E7%94%A8-a7ffb48da6c5?source=rss-1aa7afdfe5e------2)
