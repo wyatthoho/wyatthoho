@@ -60,6 +60,12 @@ Here are some ideas to get you started:
 
   <h3 >Tools:</h3>
     <p > 
+    <a href="https://code.visualstudio.com/" target="_blank"> 
+      <img src="img/VisualStudioCode.png" alt="vscode" width="40" height="40"/> </a>
+    <a href="https://jupyter.org/" target="_blank"> 
+      <img src="img/Jupyter.png" alt="Jupyter" width="40" height="40"/> </a>
+    <a href="https://colab.research.google.com/" target="_blank"> 
+      <img src="img/colab.png" alt="colab" width="90" height="40"/> </a>
     <a href="https://www.3ds.com/products-services/simulia/products/abaqus/" target="_blank"> 
       <img src="img/abaqus.png" alt="abaqus" width="80" height="40"/> </a>
   </p>
