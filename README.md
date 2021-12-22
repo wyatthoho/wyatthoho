@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <h3 >Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 虛擬環境設定-virtualenv](https://wyatthoho.medium.com/python-%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-virtualenv-9d269c605798?source=rss-1aa7afdfe5e------2)
+- [Python虛擬環境設定-virtualenv](https://wyatthoho.medium.com/python-%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-virtualenv-9d269c605798?source=rss-1aa7afdfe5e------2)
 - [Python的Path變數設定&amp;你有但不認識的Python Launcher](https://wyatthoho.medium.com/python%E7%9A%84path%E8%AE%8A%E6%95%B8%E8%A8%AD%E5%AE%9A%E5%8F%8A%E5%9F%B7%E8%A1%8C%E4%B8%8D%E5%90%8C%E7%89%88%E6%9C%ACpython%E7%9A%84%E6%96%B9%E6%B3%95-8633c4d77b3c?source=rss-1aa7afdfe5e------2)
 - [你所不知的min函數：找序列中的最近似值](https://wyatthoho.medium.com/%E4%BD%A0%E6%89%80%E4%B8%8D%E7%9F%A5%E7%9A%84min%E5%87%BD%E6%95%B8-%E6%89%BE%E5%BA%8F%E5%88%97%E4%B8%AD%E7%9A%84%E6%9C%80%E8%BF%91%E4%BC%BC%E5%80%BC-ff89412c0d5e?source=rss-1aa7afdfe5e------2)
 - [numpy array邏輯運算應用](https://wyatthoho.medium.com/numpy-array%E9%82%8F%E8%BC%AF%E9%81%8B%E7%AE%97%E6%87%89%E7%94%A8-a7ffb48da6c5?source=rss-1aa7afdfe5e------2)
