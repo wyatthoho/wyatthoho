@@ -39,6 +39,8 @@ Here are some ideas to get you started:
       <img src="img/latex.png" alt="latex" width="80" height="40"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+      <img src="img/mysql.png" alt="mysql" width="67" height="40"/> </a> 
 
 
   <h3 >Packages:</h3>
