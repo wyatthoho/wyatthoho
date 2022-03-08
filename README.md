@@ -19,12 +19,12 @@ Here are some ideas to get you started:
  <h3 >Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Tkinter 常用元件及互動方法](https://wyatthoho.medium.com/python-tkinter-%E5%B8%B8%E7%94%A8%E5%85%83%E4%BB%B6%E5%8F%8A%E4%BA%92%E5%8B%95%E6%96%B9%E6%B3%95-2005b90bda3a?source=rss-1aa7afdfe5e------2)
 - [釐清Abaqus sketch模組的座標轉換](https://wyatthoho.medium.com/%E9%87%90%E6%B8%85abaqus-sketch%E6%A8%A1%E7%B5%84%E7%9A%84%E5%BA%A7%E6%A8%99%E8%BD%89%E6%8F%9B-71d3aa449044?source=rss-1aa7afdfe5e------2)
 - [Python Tkinter的排版演練](https://wyatthoho.medium.com/python-tkinter%E7%9A%84%E6%8E%92%E7%89%88%E6%BC%94%E7%B7%B4-f3ed2e190a0f?source=rss-1aa7afdfe5e------2)
 - [如何把程式丟上Github](https://wyatthoho.medium.com/%E5%B0%87%E6%9C%AC%E5%9C%B0%E6%92%B0%E5%AF%AB%E7%9A%84%E7%A8%8B%E5%BC%8F%E6%8E%A8%E9%80%81%E5%88%B0github-8fcfb36f0878?source=rss-1aa7afdfe5e------2)
 - [MySQL資料庫入門指令](https://wyatthoho.medium.com/mysql%E8%B3%87%E6%96%99%E5%BA%AB%E5%85%A5%E9%96%80%E6%8C%87%E4%BB%A4-d7cd7934b209?source=rss-1aa7afdfe5e------2)
 - [用LaTeX在PDF中嵌入3D物件](https://wyatthoho.medium.com/%E7%94%A8latex%E5%9C%A8pdf%E4%B8%AD%E5%B5%8C%E5%85%A53d%E7%89%A9%E4%BB%B6-fa35a90aab41?source=rss-1aa7afdfe5e------2)
-- [Python虛擬環境設定-virtualenv](https://wyatthoho.medium.com/python-%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-virtualenv-9d269c605798?source=rss-1aa7afdfe5e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
