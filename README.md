@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - [Python 連結 MySQL 教學](https://wyatthoho.medium.com/python-%E9%80%A3%E7%B5%90-mysql-%E6%95%99%E5%AD%B8-bdd56e3d9ea7?source=rss-1aa7afdfe5e------2)
 - [Python venv 虛擬環境設定](https://wyatthoho.medium.com/python-venv-%E8%99%9B%E6%93%AC%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A-6b58ce78d338?source=rss-1aa7afdfe5e------2)
 - [Python Decorator 進階語法整理](https://wyatthoho.medium.com/python-decorator-%E5%85%AB%E7%A8%AE%E8%AA%9E%E6%B3%95%E6%95%B4%E7%90%86-8a9366b0150f?source=rss-1aa7afdfe5e------2)
-- [超好懂的 Python Decorator 教學](https://wyatthoho.medium.com/%E8%B6%85%E5%A5%BD%E6%87%82%E7%9A%84-python-decorator-%E7%AF%84%E4%BE%8B-2aa4c0a0f70b?source=rss-1aa7afdfe5e------2)
+- [超好懂的 Python Decorator 入門](https://wyatthoho.medium.com/%E8%B6%85%E5%A5%BD%E6%87%82%E7%9A%84-python-decorator-%E7%AF%84%E4%BE%8B-2aa4c0a0f70b?source=rss-1aa7afdfe5e------2)
 - [Python Tkinter 常用元件及互動方法](https://wyatthoho.medium.com/python-tkinter-%E5%B8%B8%E7%94%A8%E5%85%83%E4%BB%B6%E5%8F%8A%E4%BA%92%E5%8B%95%E6%96%B9%E6%B3%95-2005b90bda3a?source=rss-1aa7afdfe5e------2)
 - [Abaqus Sketch 座標轉換](https://wyatthoho.medium.com/%E9%87%90%E6%B8%85abaqus-sketch%E6%A8%A1%E7%B5%84%E7%9A%84%E5%BA%A7%E6%A8%99%E8%BD%89%E6%8F%9B-71d3aa449044?source=rss-1aa7afdfe5e------2)
 <!-- BLOG-POST-LIST:END -->
