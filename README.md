@@ -13,12 +13,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>    
   <a href="https://www.mathworks.com/" target="_blank"> 
     <img src="img/matlabLogo.svg" alt="matlab" width="40" height="40"/> </a>    
-  <a href="https://www.latex-project.org/" target="_blank"> 
-    <img src="img/latex.png" alt="latex" width="80" height="40"/> </a>    
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="img/mysql.png" alt="mysql" width="67" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="img/VisualStudioCode.png" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> 
+    <img src="img/jupyter.svg" alt="Jupyter" width="40" height="40"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank"> 
+    <img src="img/colab.png" alt="colab" width="90" height="40"/> </a>
 
 <h3 >Python Packages</h3>
   <p > 
@@ -35,16 +39,16 @@
   <a href="https://pypi.org/project/Pillow/" target="_blank"> 
     <img src="img/pillow.png" alt="pillow" width="40" height="40"/> </a>    
 
-<h3 >Tools</h3>
-  <p > 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="img/VisualStudioCode.png" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> 
-    <img src="img/jupyter.svg" alt="Jupyter" width="40" height="40"/> </a>
-  <a href="https://colab.research.google.com/" target="_blank"> 
-    <img src="img/colab.png" alt="colab" width="90" height="40"/> </a>
+<h3 >Typesetting </h3>
+  </p>
+  <a href="https://www.latex-project.org/" target="_blank"> 
+    <img src="img/latex.png" alt="latex" width="80" height="40"/> </a>    
   <a href="https://www.overleaf.com/" target="_blank"> 
     <img src="img/overleaf.svg" alt="colab" width="100" height="40"/> </a>
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank"> 
+    <img src="img/markdown.svg" alt="latex" width="65" height="40"/> </a>    
+
+<h3 >Computer-Aided Engineering</h3>
+  </p>
   <a href="https://www.3ds.com/products-services/simulia/products/abaqus/" target="_blank"> 
     <img src="img/abaqus.png" alt="abaqus" width="80" height="40"/> </a>
-</p>
