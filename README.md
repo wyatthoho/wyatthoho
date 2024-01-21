@@ -1,12 +1,12 @@
 <h3 >Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [常用的 LaTeX 數學式語法](https://wyatthoho.medium.com/%E5%B8%B8%E7%94%A8%E7%9A%84-latex-%E6%95%B8%E5%AD%B8%E5%BC%8F%E8%AA%9E%E6%B3%95-78bfe9d09772?source=rss-1aa7afdfe5e------2)
 - [使用 Python 的 logging 模組記錄程式執行過程](https://wyatthoho.medium.com/%E4%BD%BF%E7%94%A8-python-%E7%9A%84-logging-%E6%A8%A1%E7%B5%84%E8%A8%98%E9%8C%84%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C%E9%81%8E%E7%A8%8B-2fd1235060e6?source=rss-1aa7afdfe5e------2)
 - [如何連結 MySQL 的 Client 與 Server](https://wyatthoho.medium.com/mysql-%E7%9A%84-client-%E8%88%87-server-%E5%A6%82%E4%BD%95%E9%80%A3%E7%B5%90-d17edd2d7861?source=rss-1aa7afdfe5e------2)
 - [執行 Windows CMD 迴圈](https://wyatthoho.medium.com/%E5%9F%B7%E8%A1%8C-windows-cmd-%E8%BF%B4%E5%9C%88-ecd819fbcbef?source=rss-1aa7afdfe5e------2)
 - [Git 使用情境大集合](https://wyatthoho.medium.com/git-%E4%BD%BF%E7%94%A8%E6%83%85%E5%A2%83%E5%A4%A7%E9%9B%86%E5%90%88-ea74a2d65e16?source=rss-1aa7afdfe5e------2)
 - [Visual Studio Code 常用的快捷鍵](https://wyatthoho.medium.com/visual-studio-code-%E5%B8%B8%E7%94%A8%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%8D%B5-894ff940a2c1?source=rss-1aa7afdfe5e------2)
-- [實現 Python 的多工處理](https://wyatthoho.medium.com/%E5%AF%A6%E7%8F%BE-python-%E7%9A%84%E5%A4%9A%E5%B7%A5%E8%99%95%E7%90%86-70907bb3747c?source=rss-1aa7afdfe5e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 >Programming</h3>
