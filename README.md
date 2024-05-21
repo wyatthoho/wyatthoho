@@ -1,12 +1,12 @@
 <h3 >Latest Medium Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows CMD 的環境變數基本操作](https://wyatthoho.medium.com/windows-cmd-%E7%9A%84%E7%92%B0%E5%A2%83%E8%AE%8A%E6%95%B8%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C-7b8dcfd76657?source=rss-1aa7afdfe5e------2)
 - [【歪的購屋筆記】台灣的房價政策](https://wyatthoho.medium.com/%E6%AD%AA%E7%9A%84%E8%B3%BC%E5%B1%8B%E7%AD%86%E8%A8%98-%E5%8F%B0%E7%81%A3%E7%9A%84%E6%88%BF%E5%83%B9%E6%94%BF%E7%AD%96-01f6a2e6561e?source=rss-1aa7afdfe5e------2)
 - [【歪的購屋筆記】看懂房屋專有名詞](https://wyatthoho.medium.com/%E6%AD%AA%E7%9A%84%E8%B3%BC%E5%B1%8B%E7%AD%86%E8%A8%98-%E7%9C%8B%E6%87%82%E6%88%BF%E5%B1%8B%E5%B0%88%E6%9C%89%E5%90%8D%E8%A9%9E-bd3d72cd6fb5?source=rss-1aa7afdfe5e------2)
 - [常用的 LaTeX 數學式語法](https://wyatthoho.medium.com/%E5%B8%B8%E7%94%A8%E7%9A%84-latex-%E6%95%B8%E5%AD%B8%E5%BC%8F%E8%AA%9E%E6%B3%95-78bfe9d09772?source=rss-1aa7afdfe5e------2)
 - [使用 Python 的 logging 模組記錄程式執行過程](https://wyatthoho.medium.com/%E4%BD%BF%E7%94%A8-python-%E7%9A%84-logging-%E6%A8%A1%E7%B5%84%E8%A8%98%E9%8C%84%E7%A8%8B%E5%BC%8F%E5%9F%B7%E8%A1%8C%E9%81%8E%E7%A8%8B-2fd1235060e6?source=rss-1aa7afdfe5e------2)
 - [如何連結 MySQL 的 Client 與 Server](https://wyatthoho.medium.com/mysql-%E7%9A%84-client-%E8%88%87-server-%E5%A6%82%E4%BD%95%E9%80%A3%E7%B5%90-d17edd2d7861?source=rss-1aa7afdfe5e------2)
-- [執行 Windows CMD 迴圈](https://wyatthoho.medium.com/%E5%9F%B7%E8%A1%8C-windows-cmd-%E8%BF%B4%E5%9C%88-ecd819fbcbef?source=rss-1aa7afdfe5e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 >Programming</h3>
